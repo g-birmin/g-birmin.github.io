@@ -16,4 +16,4 @@ The design pattern that I chose to create for this chapter was the pyramid model
 
 
 
-<div style="text-align: right"> <a href="/index"> <-Prev </a> </div> <div style="text-align: right"> <a href="/dp_2"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/index"> <-Prev </a> </div> <div style="text-align: right"> <a href="/dp_2"> Next-> </a> </div>

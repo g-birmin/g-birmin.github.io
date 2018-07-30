@@ -16,4 +16,4 @@ The design patterns from the fourth chapter all center around the organization o
 
 
 
-<div style="text-align: right"> <a href="g-birmin.github.io/dp_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/dp_3"> Next-> </a> </div>
+<div style="text-align: left"> <a href="g-birmin.github.io/dp_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/dp_3"> Next-> </a> </div>

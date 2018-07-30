@@ -5,12 +5,12 @@ This is a site that I am using to demonstrate different basic design patterns an
 
 ### Design Patterns
 
- [Chapter 3: Getting Around (Pyramid Model)] (g-birmin.github.io/dp_1)
- [Chapter 4: Organizing The Page (Titled Sections)] (g-birmin.github.io/dp_2)
- [Chapter 5: Lists (One-Window Drilldown)] (g-birmin.github.io/dp_3)
- [Chapter 6: Doing Things (Prominent "Done" Button)] (g-birmin.github.io/dp_4)
+ [Chapter 3: Getting Around (Pyramid Model)] (https://g-birmin.github.io/dp_1)
+ [Chapter 4: Organizing The Page (Titled Sections)] (https://g-birmin.github.io/dp_2)
+ [Chapter 5: Lists (One-Window Drilldown)] (https://g-birmin.github.io/dp_3)
+ [Chapter 6: Doing Things (Prominent "Done" Button)] (https://g-birmin.github.io/dp_4)
 
-###Special Topics
+### Special Topics
 
- [Topic 1: Adaptive Menu Design] (g-birmin.github.io/st_1)
- [Topic 2: Complex Background and Text Framing Techniques] (g-birmin.github.io/st_2)
+ [Topic 1: Adaptive Menu Design] (https://g-birmin.github.io/st_1)
+ [Topic 2: Complex Background and Text Framing Techniques] (https://g-birmin.github.io/st_2)
