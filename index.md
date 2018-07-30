@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Site
 
-You can use the [editor on GitHub](https://github.com/g-birmin/gb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there!
+This is a site that I am using to demonstrate different basic design patterns and other projects assigned to me in a web design class I'm currently taking for school. Below this paragraph will be links around this site to the different examples that I was able to come up with. This site is worried primarily with showing my own understanding of the concepts that I was interested in, and as such other aspects of this site will be focused primarily on bare-bones presentation of the content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Design Patterns
 
-### Markdown
+- [Chapter 3: Getting Around (Pyramid Model)] (g-birmin.github.io/dp_1)
+- [Chapter 4: Organizing The Page (Titled Sections)] ()
+- [Chapter 5: Lists (One-Window Drilldown)] ()
+- [Chapter 6: Doing Things (Prominent "Done" Button)] ()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Special Topics
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g-birmin/gb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Topic 1: Adaptive Menu Design] ()
+- [Topic 2: Complex Background and Text Framing Techniques] ()
