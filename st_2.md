@@ -16,4 +16,4 @@ The second special topic that I am interested in looking into for this class is 
 
 
 
-<div style="text-align: left"> <a href="g-birmin.github.io/st_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/index"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/st_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="/index"> Next-> </a> </div>

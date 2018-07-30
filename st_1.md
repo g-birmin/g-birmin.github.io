@@ -16,4 +16,4 @@ The first special topic that I'd like to look into for this class is effecting c
 
 
 
-<div style="text-align: left"> <a href="g-birmin.github.io/dp_4"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/st_2"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/dp_4"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_2"> Next-> </a> </div>

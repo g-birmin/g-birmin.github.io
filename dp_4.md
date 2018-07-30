@@ -12,8 +12,9 @@ The sixth chapter of the textbook is on the subject of action, the different ele
 
 
 
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://g-birmin.github.io/index)
 
 
 
 
-<div style="text-align: left"> <a href="g-birmin.github.io/dp_3"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/st_1"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/dp_3"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_1"> Next-> </a> </div>

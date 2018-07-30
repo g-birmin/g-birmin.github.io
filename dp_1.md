@@ -9,7 +9,7 @@ The design pattern that I chose to create for this chapter was the pyramid model
 
 
 
-
+[Use picture of pyramid structure in this site, displaying all of the pages in a hierarchy]
 
 
 

@@ -4,6 +4,15 @@ The design patterns from the fourth chapter all center around the organization o
 
 
 
+### Section A
+
+Using a mixture of spacing and a large-font text, we are able to create something of an implicit barrier that creates blocks within the page. This allows for a user to separate the different sections automatically in one's head.
+
+          -----------------------------------------------------------
+
+### Section B
+
+An addition available to us is to also use a barrier, in this case hyphens, to create a physical blocking of the sections. This can also be used vertically, to split a page or sections into columns.
 
 
 
@@ -13,7 +22,4 @@ The design patterns from the fourth chapter all center around the organization o
 
 
 
-
-
-
-<div style="text-align: left"> <a href="g-birmin.github.io/dp_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="g-birmin.github.io/dp_3"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/dp_1"> <-Prev </a> </div> <div style="text-align: right"> <a href="/dp_3"> Next-> </a> </div>
