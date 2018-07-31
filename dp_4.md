@@ -4,17 +4,7 @@ The sixth chapter of the textbook is on the subject of action, the different ele
 
 (I couldn't think of a good way to mock-up this concept without making the working version sans-link.)
 
-
-
-
-
-
-
-
-
 [![button](https://g-birmin.github.io/photos/done_1.jpg)](https://g-birmin.github.io/index)
 
 
-
-
-<div style="text-align: left"> <a href="/dp_3"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_1"> Next-> </a> </div>
+<div style="text-align: left"> <a href="/dp_3"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_1"> To Special Topics-> </a> </div>
