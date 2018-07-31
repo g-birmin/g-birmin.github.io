@@ -7,9 +7,9 @@ The design pattern that I chose to create for this chapter was the pyramid model
 
 
 
+![pyramid](https://g-birmin.github.io/photos/pyramid.jpg)
+This diagram shows how this website is laid out is basic form.
 
-
-[Use picture of pyramid structure in this site, displaying all of the pages in a hierarchy]
 
 
 
