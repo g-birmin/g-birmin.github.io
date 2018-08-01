@@ -9,11 +9,7 @@ A major feature that I was looking into for this topic was a moving taskbar or m
 .square {
   height: 50px;
   width: 50px;
-  color: #555;
-}
-.square:hover{
-  background-color: #000;
-  color: #999
+  background-color: #555;
 }
 </style>
 
