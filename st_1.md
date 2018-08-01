@@ -12,7 +12,7 @@ A major feature that I was looking into for this topic was a moving taskbar or m
   background-color: #555;
   text-align: center;
 }
-.square: hover{
+.square:hover{
   background-color: #000;
 }
 </style>
