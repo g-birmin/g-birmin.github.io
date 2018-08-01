@@ -10,6 +10,10 @@ A major feature that I was looking into for this topic was a moving taskbar or m
   height: 50px;
   width: 50px;
   background-color: #555;
+  text-align: center;
+}
+.square: hover{
+  background-color: #000;
 }
 </style>
 
