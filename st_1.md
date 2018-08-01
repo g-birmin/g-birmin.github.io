@@ -27,6 +27,6 @@ A major feature that I was looking into for this topic was a moving taskbar or m
 
 <div class ="square"></div>
 
-<div class ="link"></div>
+<div class ="link"><a href="/index"> Main Page </a></div>
 
 <div style="text-align: left"> <a href="/dp_4"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_2"> Next-> </a> </div>
