@@ -12,11 +12,21 @@ A major feature that I was looking into for this topic was a moving taskbar or m
   background-color: #555;
   text-align: center;
 }
+.link
+{
+  visibility: hidden;
+}
 .square:hover{
   background-color: #000;
+
 }
+.link, .square:hover{
+  visibility = visible;
+  }
 </style>
 
 <div class ="square"></div>
+
+<div class ="link"></div>
 
 <div style="text-align: left"> <a href="/dp_4"> <-Prev </a> </div> <div style="text-align: right"> <a href="/st_2"> Next-> </a> </div>
